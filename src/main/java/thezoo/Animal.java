@@ -10,7 +10,7 @@ public class Animal {
     public Animal(){
         speciesCode = new int[1];
     }
-public void printAnimalSound(Animal a){
+    public void printAnimalSound(Animal a){
 
 
 
